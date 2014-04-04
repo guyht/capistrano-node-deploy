@@ -1,5 +1,5 @@
 require "digest/md5"
-require "railsless-deploy"
+#require "railsless-deploy"
 require "multi_json"
 
 def remote_file_exists?(full_path)
